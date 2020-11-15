@@ -1,0 +1,12 @@
+{
+    "operation": "fixedlength",
+    "number_of_rows": 5,
+    "add_column_names":false,
+    "column_types_config_file": "./ColumnTypeConfig.tsv",
+    "populate_data_flag_fieldname":"Mandatory",
+    "datatype_fieldname": "DataType",
+    "header_column": "FieldName",
+    "randomly_skip_not_null_columns":true,
+    "output_file": "./testdata.txt",
+    "delimiter":"\t"
+}
