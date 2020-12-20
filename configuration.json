@@ -8,5 +8,5 @@
     "header_column": "FieldName",
     "randomly_skip_not_null_columns":true,
     "output_file": "./testdata.txt",
-    "delimiter":"\t"
+    "delimiter":"\t" 
 }
