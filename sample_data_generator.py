@@ -107,3 +107,7 @@ if __name__ == "__main__":
     field_type_df = validate_config_file(config)
     lookup = get_lookup_data(config)
     generate_sample_data(config,field_type_df,lookup)
+
+
+def adding_a_function_git():
+    return -1
